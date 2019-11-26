@@ -1,0 +1,2 @@
+# Simple_DNScrypt_blacklist
+有关Simple DNSCrypt的黑名单
