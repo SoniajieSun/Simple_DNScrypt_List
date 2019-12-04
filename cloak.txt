@@ -1,0 +1,13 @@
+﻿cc.greatfire.org          104.25.53.117
+en.greatfire.org          104.25.53.117
+freebrowser.org           104.25.53.117
+freewechat.com            104.25.179.28
+freeweibo.com             104.25.239.102
+gg.chn.moe                216.24.178.192
+gg0.chn.moe               216.24.178.192
+gg1.chn.moe               64.64.230.147
+gg2.chn.moe               64.64.239.61
+greatfire.org             104.25.54.117
+pao-pao.net               104.28.9.217
+startpage.freebrowser.org 104.25.53.117
+zh.greatfire.org          104.25.53.117
